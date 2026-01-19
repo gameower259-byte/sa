@@ -1,1 +1,2 @@
-# requirements.txt created automatically
+google-generativeai
+python-dotenv
